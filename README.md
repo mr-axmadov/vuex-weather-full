@@ -1,4 +1,4 @@
-# vue-weather-full
+# vuex-weather-full
 
 ![Vue Weather](./Banner.png)
 
